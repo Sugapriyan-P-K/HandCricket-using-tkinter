@@ -1,0 +1,9 @@
+Rules & Methods
+
+1 ) Welcome to this game.In this game you are going to play with the opponent(computer).
+2 ) You are given with ten buttons(1-10) and based on the choice that you chose before 
+you are directed to play either as a batsman or bowler
+3 ) NOTE : when you are bating(right side of computer screen). 
+When you are bowling(left side of computer screen).
+4 ) You are given with "eleven" wickets, you can play until you washed out.
+5 ) After you done bating and bowling(The winner was declare and after that this game will closed)
