@@ -9,9 +9,7 @@ from bating_and_bowling import play, comp_play
 from for_images import *
 
 root=Tk()
-width = root.winfo_screenwidth()
-height = root.winfo_screenheight()
-root.geometry('%dx%d' % (width, height))
+root.geometry('1365x765')
 root.title('Hand Cricket')
 root.configure(bg="green2")
 pitch = tk.Frame(root,width=400,height=650,bg="wheat1")
