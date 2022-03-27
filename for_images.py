@@ -1,7 +1,7 @@
 from tkinter import *
 from PIL import Image, ImageTk
 
-#place image on the grid
+#place image on the screen
 def display_logo(url, row, column,bg="#fffff0"):
     img = Image.open(url)
     #resize image
