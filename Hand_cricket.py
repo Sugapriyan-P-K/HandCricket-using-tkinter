@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk
-from tkinter.colorchooser import askcolor
 import random
 from toss import games#from this my modules
 from bating_and_bowling import play, comp_play
