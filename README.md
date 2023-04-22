@@ -1,10 +1,10 @@
 # HandCricket-using-tkinter
 
-This is beginner level python simple GUI project.
-Modules in this program:
-    •random(built-in module).
-    •tkinter.
-    •PIL.
+This is beginner level python simple GUI project.\
+Modules in this program:\
+    • random(built-in module).\
+    • tkinter.\
+    • PIL.
 
 
 This application is set to prefix size, because it is not responsive for every screen size.
