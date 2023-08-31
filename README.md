@@ -7,7 +7,6 @@ Modules in this program:\
     • tkinter.\
     • PIL.
 
-
 This application is set to prefix size, because it is not responsive for every screen size.
 For better experience just run it in fixed size.
 
